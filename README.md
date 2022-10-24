@@ -3,3 +3,4 @@
 - [alibaba前端知识图谱-checkList](https://github.com/kromalee/f2e-tech-checklist)
 - [前端内参 frontend-hard-mode-interview ](https://github.com/coffe1891/frontend-hard-mode-interview)
 - [前端进阶之旅 前端系统进阶笔记 & 面试指南](https://interview2.poetries.top/)
+- [涉及前端知识题库 最多（6000+）、最全，参与人数最多的免费开源公益项目](https://github.com/haizlin/fe-interview)
